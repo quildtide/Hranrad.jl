@@ -1,0 +1,7 @@
+name = "Hranrad"
+uuid = "b55c4a7e-e4ca-58bb-a587-fc830436a95b"
+authors = ["quildtide@gmail.com"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"
